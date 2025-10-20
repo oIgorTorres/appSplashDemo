@@ -36,6 +36,7 @@ app/
  │    │     └── fade_in.xml
  │    ├── layout/
  │    │     └── activity_main.xml
+ │    │     └── activity_splash.xml
  │    ├── drawable/
  │    │     ├── ic_launcher_background.xml
  │    │     ├── ic_launcher_foreground.xml
