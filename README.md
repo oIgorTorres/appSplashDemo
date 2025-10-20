@@ -49,7 +49,7 @@ app/
 
 ---
 
-## 🧰 Estrutura XML - Principal
+## 🧰 Estrutura XML
 
 O layout principal (`activity_main.xml`) contém:
 - 1 TextView
