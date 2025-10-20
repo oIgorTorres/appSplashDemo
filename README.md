@@ -28,7 +28,7 @@ O **appSplashDemo** é um app educacional voltado para o principal aprendizado d
 ```
 app/
  ├── java/
- │    └── br/ulbra/app3/
+ │    └── br/ulbra/SplashDemo/
  │         └── MainActivity.java
  │         └── SplashActivity.java
  ├── res/
